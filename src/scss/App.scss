@@ -1,0 +1,14 @@
+@import "./navbar";
+@import "./hero";
+@import "./features/features";
+@import "./features/feature";
+@import "./platforms/platform";
+@import "./platforms/platforms";
+@import "./pricing/pricing";
+@import "./pricing/pricing_card";
+@import "./social";
+@import "./footer";
+.App {
+  width: 100vw;
+  position: absolute;
+}
